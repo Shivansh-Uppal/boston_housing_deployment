@@ -7,4 +7,3 @@
 * [Vscode](https://code.visualstudio.com/)
 * [heroku account](https://www.heroku.com/)
 * [GitCLI](https://git-scm.com/downloads)
-* [Docker](https://www.docker.com/products docker-desktop)
